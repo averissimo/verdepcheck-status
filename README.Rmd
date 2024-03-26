@@ -1,0 +1,139 @@
+---
+title: "Untitled"
+output: html_document
+date: "2024-03-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, eval=FALSE, include=FALSE}
+rmarkdown::render("README.Rmd", output_file = "README.md", output_format = "md_document")
+```
+
+
+```{r, echo=FALSE}
+make_curl_req <- function(
+    ..., 
+    query = NULL, 
+    body = NULL, 
+    endpoint = "repos", 
+    owner = "insightsengineering") {
+  
+  dots <- rlang::list2(...)
+  
+  url_path <- do.call(file.path, dots)
+  
+  url <- if (!is.null(endpoint) && !is.null(owner)) {
+    sprintf("https://api.github.com/%s/%s", endpoint, owner)
+  } else if (!is.null(endpoint)) {
+    sprintf("https://api.github.com/%s", endpoint)
+  }
+  
+  httr2::request(file.path(url, url_path)) |> 
+    httr2::req_headers(
+      "Accept" = "application/vnd.github+json",
+      "Authorization" = sprintf("Bearer %s", Sys.getenv("GITHUB_PAT")),
+      "X-GitHub-Api-Version" = "2022-11-28"
+    )
+}
+
+build_pkg_table <- function(pkg_name) {
+  res <- tryCatch({
+    make_curl_req(pkg_name, "actions", "workflows", "scheduled.yaml", "runs") |> 
+      httr2::req_url_query(
+        branch = "main"
+      ) |> 
+      httr2::req_perform() |> 
+      httr2::resp_body_json()
+  }, error = function(e) {
+    return(NULL)
+  })
+  
+  if (is.null(res)) {
+    return(tibble::tibble(
+      package = pkg_name,
+      name = c("min_cohort", "min_isolated", "max", "release"),
+      status = NA_character_,
+      url = NA_character_,
+      icon = NA_character_
+      )
+    )
+  }
+  
+  res <- make_curl_req(pkg_name, "actions", "workflows", "scheduled.yaml", "runs") |> 
+    httr2::req_url_query(
+      branch = "main"
+    ) |> 
+    httr2::req_perform() |> 
+    httr2::resp_body_json()
+  
+  
+  jobs <- make_curl_req(pkg_name, "actions", "runs", res$workflow_runs[[1]]$id, "jobs") |> 
+    httr2::req_url_query(per_page = 5) |> 
+    httr2::req_perform() |> 
+    httr2::resp_body_json()
+  
+  flag_regex <- "Dependency Test - (.*) 🔢 .*"
+  
+  processed <- jobs$jobs |> 
+    purrr::keep(~ grepl(flag_regex, .x$name)) |> 
+    purrr::map(
+      ~ list(
+        package = pkg_name,
+        name = gsub(flag_regex, "\\1", .x$name), 
+        status = .x$conclusion, 
+        url = .x$html_url
+      )
+    )
+  
+  processed |> 
+    dplyr::bind_rows() |>
+    dplyr::mutate(
+      icon = dplyr::case_when(
+        status == "success" ~ "✅",
+        status == "failure" ~ "❌",
+        status == "cancelled" ~ "🚫",
+        .default = ""
+      )
+    )
+}
+```
+
+```{r}
+job_details <- c(
+  "teal", "teal.code", "teal.data", "teal.slice", "teal.reporter", "teal.logger",
+  "teal.transform", "teal.widgets",
+  #
+  "teal.modules.general", "teal.modules.clinical",
+  #
+  "formatters", "rtables", "rlistings", "tern.gee", "tern.mmrm", "tern", "chevron",
+  "dunlin", "citril.metadata", "citril", "random.cdisc.data", "scda", "scda.2022",
+  #
+  "osprey", "goshawk", "teal.goshawk", "teal.osprey"
+) |> 
+  lapply(build_pkg_table) |> 
+  dplyr::bind_rows()
+```
+
+
+```{r echo=FALSE}
+job_details |> 
+  dplyr::rowwise() |> 
+  dplyr::mutate(
+    badge = sprintf("%s (%s)", icon, status),
+    badge_l = dplyr::if_else(
+      is.na(status) | vapply(status, is.null, logical(1)), 
+      list(""), 
+      purrr::map2(badge, url, \(a, b) htmltools::a(href = b, a) |> as.character())
+    )
+  ) |> 
+  dplyr::select(package, name, badge_l) |> 
+  dplyr::filter(name != "min") |> 
+  tidyr::pivot_wider(names_from = name, values_from = badge_l, values_fill = list("")) |> 
+  dplyr::select(package, min_isolated, min_cohort, release, max) |> 
+  knitr::kable()
+
+```
+
