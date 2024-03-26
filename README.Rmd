@@ -101,9 +101,10 @@ build_pkg_table <- function(pkg_name) {
 }
 ```
 
-```{r}
+```{r, echo=FALSE}
 job_details <- c(
-  "teal", "teal.code", "teal.data", "teal.slice", "teal.reporter", "teal.logger",
+  "teal", "teal.code", "teal.data", "teal.slice", "teal.reporter", "teal.logger"
+  ,
   "teal.transform", "teal.widgets",
   #
   "teal.modules.general", "teal.modules.clinical",
@@ -134,6 +135,5 @@ job_details |>
   tidyr::pivot_wider(names_from = name, values_from = badge_l, values_fill = list("")) |> 
   dplyr::select(package, min_isolated, min_cohort, release, max) |> 
   knitr::kable()
-
 ```
 

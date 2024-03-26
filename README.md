@@ -1,17 +1,3 @@
-    job_details <- c(
-      "teal", "teal.code", "teal.data", "teal.slice", "teal.reporter", "teal.logger",
-      "teal.transform", "teal.widgets",
-      #
-      "teal.modules.general", "teal.modules.clinical",
-      #
-      "formatters", "rtables", "rlistings", "tern.gee", "tern.mmrm", "tern", "chevron",
-      "dunlin", "citril.metadata", "citril", "random.cdisc.data", "scda", "scda.2022",
-      #
-      "osprey", "goshawk", "teal.goshawk", "teal.osprey"
-    ) |> 
-      lapply(build_pkg_table) |> 
-      dplyr::bind_rows()
-
 <table>
 <colgroup>
 <col style="width: 4%" />
