@@ -37,7 +37,7 @@ jobs:
           git add README.md
           git commit -m "Automatic update" --allow-empty
       - name: Push changes
-        uses: ad-m/github-push-action@fe38f0a751bf9149f0270cc1fe20bf9156854365
+        uses: ad-m/github-push-action@9870d48124da805820c70ebc6ba563c715551019
         with:
           directory: ./
           repository:  averissimo/verdepcheck-status
