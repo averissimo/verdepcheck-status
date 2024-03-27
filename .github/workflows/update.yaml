@@ -1,14 +1,10 @@
-name: ci
+name: Update Report
 
 on:
-  push:
-    paths-ignore:
-      - last_update.txt
-    branches:
-      - 'master'
+  workflow_dispatch:
 
   schedule:
-    - cron: '12 9 * * 1/7'
+    - cron: '5 4 * * *' # every day at 4:05 UTC
 jobs:
   docker:
     runs-on: ubuntu-latest
