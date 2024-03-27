@@ -44,4 +44,4 @@ jobs:
         with:
           directory: ./
           repository:  averissimo/verdepcheck-status
-          github_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
