@@ -28,6 +28,8 @@ jobs:
       - name: Generate report
         continue-on-error: true
         shell: Rscript {0}
+        env:
+          GITHUB_PAT: ${{ secrets.GH_PAT }}
         run: |
           rmarkdown::render("README.Rmd", output_file = "README.md", output_format = "md_document")
 
