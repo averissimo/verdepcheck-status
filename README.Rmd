@@ -40,16 +40,20 @@ make_curl_req <- function(
 }
 
 build_pkg_table <- function(pkg_name) {
-  res <- tryCatch({
-    make_curl_req(pkg_name, "actions", "workflows", "scheduled.yaml", "runs") |> 
-      httr2::req_url_query(
-        branch = "main"
-      ) |> 
-      httr2::req_perform() |> 
-      httr2::resp_body_json()
-  }, error = function(e) {
-    return(NULL)
-  })
+  
+  for (workflow_name in c("scheduled.yaml", "scheduled.yml")) {
+    res <- tryCatch({
+      make_curl_req(pkg_name, "actions", "workflows", workflow_name, "runs") |> 
+        httr2::req_url_query(
+          branch = "main"
+        ) |> 
+        httr2::req_perform() |> 
+        httr2::resp_body_json()
+    }, error = function(e) {
+      return(NULL)
+    })
+    if (!is.null(res)) break
+  }
   
   if (is.null(res)) {
     return(tibble::tibble(
@@ -62,7 +66,7 @@ build_pkg_table <- function(pkg_name) {
     )
   }
   
-  res <- make_curl_req(pkg_name, "actions", "workflows", "scheduled.yaml", "runs") |> 
+  res <- make_curl_req(pkg_name, "actions", "workflows", workflow_name, "runs") |> 
     httr2::req_url_query(
       branch = "main"
     ) |> 

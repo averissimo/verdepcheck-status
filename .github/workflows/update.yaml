@@ -1,0 +1,44 @@
+name: ci
+
+on:
+  push:
+    paths-ignore:
+      - last_update.txt
+    branches:
+      - 'master'
+
+  schedule:
+    - cron: '12 9 * * 1/7'
+jobs:
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+      - uses: r-lib/actions/setup-renv@v2
+      - name: debug
+        run: |
+          pwd
+          ls -ln
+      - name: Generate report
+        shell: Rscript {0}
+        run: |
+          rmarkdown::render("README.Rmd", output_file = "README.md", output_format = "md_document")
+
+      - name: Set credentials for github
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Automatic update" --allow-empty
+      - name: Push changes
+        uses: ad-m/github-push-action@fe38f0a751bf9149f0270cc1fe20bf9156854365
+        with:
+          directory: ./
+          repository:  averissimo/verdepcheck-status
+          github_token: ${{ secrets.GITHUB_TOKEN }}
