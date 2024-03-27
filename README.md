@@ -276,33 +276,17 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin
 </tr>
 <tr class="odd">
 <td style="text-align: left;">citril.metadata</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8406669239/job/23020789769">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8406669239/job/23020789730">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8406669239/job/23020789686">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8406669239/job/23020789633">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">citril</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8406662023/job/23020774489">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8406662023/job/23020774376">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8406662023/job/23020774317">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8406662023/job/23020774432">❌
-(failure)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">random.cdisc.data</td>
