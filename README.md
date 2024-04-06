@@ -232,16 +232,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/tern.g
 <tr class="even">
 <td style="text-align: left;">tern</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/8495538000/job/23271917495">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/8495538000/job/23271917428">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/8566344660/job/23475936102">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/8495538000/job/23271917589">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/8566344660/job/23475936389">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/8495538000/job/23271917367">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/8566344660/job/23475936881">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/8566344660/job/23475936679">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
