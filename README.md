@@ -144,7 +144,9 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.m
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8585967490/job/23527928727">✅
 (success)</a></td>
-<td style="text-align: left;"></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8585967490/job/23527928873">❌
+(failure)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8585967490/job/23527928636">❌
 (failure)</a></td>
