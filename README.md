@@ -19,16 +19,16 @@
 <tr class="odd">
 <td style="text-align: left;">teal</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/8585966547/job/23527926405">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/8585966547/job/23527926354">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/8600270436/job/23564888570">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/8585966547/job/23527926503">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/8600270436/job/23564888809">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/8585966547/job/23527926454">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/8600270436/job/23564889133">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/8600270436/job/23564888299">✅
 (success)</a></td>
 </tr>
 <tr class="even">
@@ -49,46 +49,46 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.c
 <tr class="odd">
 <td style="text-align: left;">teal.data</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/8585969509/job/23527932926">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/8602562071/job/23572399206">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/8585969509/job/23527932790">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/8602562071/job/23572398891">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/8585969509/job/23527932989">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/8602562071/job/23572399465">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/8585969509/job/23527932867">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/8602562071/job/23572398626">✅
+(success)</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.slice</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.slice/actions/runs/8585974107/job/23527942342">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.slice/actions/runs/8585974107/job/23527942192">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.slice/actions/runs/8600257983/job/23564852846">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.slice/actions/runs/8585974107/job/23527942411">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.slice/actions/runs/8600257983/job/23564852570">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.slice/actions/runs/8585974107/job/23527942273">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.slice/actions/runs/8600257983/job/23564853129">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.slice/actions/runs/8600257983/job/23564852238">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">teal.reporter</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.reporter/actions/runs/8585971368/job/23527936485">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.reporter/actions/runs/8585971368/job/23527936544">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.reporter/actions/runs/8585971368/job/23527936642">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.reporter/actions/runs/8602979730/job/23573778093">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.reporter/actions/runs/8585971368/job/23527936595">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.reporter/actions/runs/8602979730/job/23573777770">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.reporter/actions/runs/8602979730/job/23573778400">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.reporter/actions/runs/8602979730/job/23573777315">❌
 (failure)</a></td>
 </tr>
 <tr class="even">
@@ -139,16 +139,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.w
 <tr class="odd">
 <td style="text-align: left;">teal.modules.general</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8585967490/job/23527928797">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8585967490/job/23564910830">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8585967490/job/23527928727">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8585967490/job/23564910532">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8585967490/job/23527928873">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8585967490/job/23564911640">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8585967490/job/23527928636">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8585967490/job/23564911197">❌
 (failure)</a></td>
 </tr>
 <tr class="even">
@@ -360,14 +360,18 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.g
 </tr>
 <tr class="odd">
 <td style="text-align: left;">teal.osprey</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/8585978921/job/23527951808">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/8602843878/job/23573321762">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/8585978921/job/23527951887">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/8602843878/job/23573322067">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/8602843878/job/23573322361">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/8602843878/job/23573321482">✅
+(success)</a></td>
 </tr>
 </tbody>
 </table>
