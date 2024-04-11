@@ -213,13 +213,17 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/rlisti
 </tr>
 <tr class="even">
 <td style="text-align: left;">tern.gee</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/8585976875/job/23527947564">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/8631891673/job/23661268563">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/8585976875/job/23527947410">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/8631891673/job/23661267724">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/8631891673/job/23661269042">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/8631891673/job/23661268176">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
