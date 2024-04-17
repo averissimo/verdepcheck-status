@@ -184,16 +184,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/format
 <tr class="even">
 <td style="text-align: left;">rtables</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/8678205464/job/23794816023">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/8678205464/job/23794815929">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/8678205464/job/23794816132">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/8703715309/job/23870489052">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/8678205464/job/23794815799">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/8703715309/job/23870488642">❌
+(failure)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/8703715309/job/23870489453">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/8703715309/job/23870488256">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
