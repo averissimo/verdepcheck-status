@@ -13,7 +13,7 @@ rmarkdown::render("README.Rmd", output_file = "README.md", output_format = "md_d
 ```
 
 
-```{r, echo=FALSE}
+```{r functions, echo=FALSE}
 make_curl_req <- function(
     ..., 
     query = NULL, 
@@ -108,7 +108,7 @@ build_pkg_table <- function(pkg_name) {
 }
 ```
 
-```{r, echo=FALSE}
+```{r build, echo=FALSE}
 job_details <- c(
   "teal", "teal.code", "teal.data", "teal.slice", "teal.reporter", "teal.logger"
   ,
@@ -126,7 +126,7 @@ job_details <- c(
 ```
 
 
-```{r echo=FALSE}
+```{r print, echo=FALSE}
 job_details |> 
   dplyr::rowwise() |> 
   dplyr::mutate(

@@ -1,3 +1,30 @@
+    ## [1] "Retrieving teal..."
+    ## [1] "Retrieving teal.code..."
+    ## [1] "Retrieving teal.data..."
+    ## [1] "Retrieving teal.slice..."
+    ## [1] "Retrieving teal.reporter..."
+    ## [1] "Retrieving teal.logger..."
+    ## [1] "Retrieving teal.transform..."
+    ## [1] "Retrieving teal.widgets..."
+    ## [1] "Retrieving teal.modules.general..."
+    ## [1] "Retrieving teal.modules.clinical..."
+    ## [1] "Retrieving formatters..."
+    ## [1] "Retrieving rtables..."
+    ## [1] "Retrieving rlistings..."
+    ## [1] "Retrieving tern.gee..."
+    ## [1] "Retrieving tern..."
+    ## [1] "Retrieving chevron..."
+    ## [1] "Retrieving dunlin..."
+    ## [1] "Retrieving citril.metadata..."
+    ## [1] "Retrieving citril..."
+    ## [1] "Retrieving random.cdisc.data..."
+    ## [1] "Retrieving scda..."
+    ## [1] "Retrieving scda.2022..."
+    ## [1] "Retrieving osprey..."
+    ## [1] "Retrieving goshawk..."
+    ## [1] "Retrieving teal.goshawk..."
+    ## [1] "Retrieving teal.osprey..."
+
 <table>
 <colgroup>
 <col style="width: 4%" />
@@ -144,8 +171,12 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.m
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382072">✅
 (success)</a></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382865">❓
+(unkown)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382535">❓
+(unkown)</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.modules.clinical</td>
@@ -274,17 +305,33 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin
 </tr>
 <tr class="odd">
 <td style="text-align: left;">citril.metadata</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916715">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916780">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916837">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916912">✅
+(success)</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">citril</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904628">❌
+(failure)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904419">❌
+(failure)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904565">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904500">✅
+(success)</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">random.cdisc.data</td>
