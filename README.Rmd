@@ -117,7 +117,7 @@ job_details <- c(
   #
   "teal.modules.general", "teal.modules.clinical",
   #
-  "formatters", "rtables", "rlistings", "tern.gee", "tern.mmrm", "tern", "chevron",
+  "formatters", "rtables", "rlistings", "tern.gee", "tern.mmrm", "tern.rbmi", "tern", "chevron",
   "dunlin", "citril.metadata", "citril", "random.cdisc.data", "scda", "scda.2022",
   #
   "osprey", "goshawk", "teal.goshawk", "teal.osprey"
