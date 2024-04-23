@@ -1,3 +1,5 @@
+[![Update Workflow Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg?branch=main)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
+
 <table>
 <colgroup>
 <col style="width: 4%" />
