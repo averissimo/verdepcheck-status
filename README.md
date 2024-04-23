@@ -1,4 +1,4 @@
-Last updated on 2024-04-23 12:04:27.997255 [![Update Workflow
+Last updated on 2024-04-23 12:56:57.867434 [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 <table>
@@ -351,13 +351,17 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/osprey
 </tr>
 <tr class="odd">
 <td style="text-align: left;">goshawk</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/goshawk/actions/runs/8769919146/job/24065916824">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/goshawk/actions/runs/8800086648/job/24150520287">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/goshawk/actions/runs/8769919146/job/24065916763">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/goshawk/actions/runs/8800086648/job/24150519939">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/goshawk/actions/runs/8800086648/job/24150520651">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/goshawk/actions/runs/8800086648/job/24150520969">✅
 (success)</a></td>
 </tr>
 <tr class="even">
