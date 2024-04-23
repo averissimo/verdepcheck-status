@@ -125,7 +125,6 @@ job_details <- c(
   dplyr::bind_rows()
 ```
 
-
 ```{r print, echo=FALSE}
 job_details |> 
   dplyr::rowwise() |> 
@@ -144,3 +143,8 @@ job_details |>
   knitr::kable()
 ```
 
+
+_notes:_
+
+- This table is automatically generated from the latest GitHub Actions status.
+- ❓ indicates that the  job might still be running, click on it to find out more.
