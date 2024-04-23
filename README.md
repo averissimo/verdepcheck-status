@@ -1,9 +1,5 @@
-Last updated on 2024-04-23 13:16:52.549307 [![Update Workflow
+Last updated on 2024-04-23 13:24:48.607176 [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
-
-<relative-time datetime="2014-04-01T16:30:00-08:00">
-  April 1, 2014 4:30pm
-</relative-time>
 
 <table>
 <colgroup>
@@ -241,6 +237,21 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/tern.g
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
+<td style="text-align: left;">tern.rbmi</td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.rbmi/actions/runs/8769919141/job/24065916946">❌
+(failure)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.rbmi/actions/runs/8769919141/job/24065916797">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.rbmi/actions/runs/8769919141/job/24065917013">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.rbmi/actions/runs/8769919141/job/24065916873">✅
+(success)</a></td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;">tern</td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/8769915302/job/24065908702">✅
@@ -253,7 +264,7 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/tern/a
 style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/8769915302/job/24065908649">✅
 (success)</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">chevron</td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/8769926457/job/24065931684">✅
@@ -268,7 +279,7 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/chevro
 style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/8769926457/job/24065931801">✅
 (success)</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">dunlin</td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin/actions/runs/8769914057/job/24065905721">✅
@@ -283,21 +294,21 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin
 style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin/actions/runs/8769914057/job/24065905611">✅
 (success)</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">citril.metadata</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">citril</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">random.cdisc.data</td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/random.cdisc.data/actions/runs/6918179803/job/18820148722">✅
@@ -312,7 +323,7 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/random
 style="text-align: left;"><a href="https://github.com/insightsengineering/random.cdisc.data/actions/runs/6918179803/job/18820148771">✅
 (success)</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">scda</td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/8784382790/job/24102497082">✅
@@ -327,7 +338,7 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/scda/a
 style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/8784382790/job/24102496734">✅
 (success)</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">scda.2022</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -338,7 +349,7 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/scda.2
 style="text-align: left;"><a href="https://github.com/insightsengineering/scda.2022/actions/runs/8769920067/job/24065918281">✅
 (success)</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">osprey</td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/osprey/actions/runs/8799593583/job/24148953076">✅
@@ -353,7 +364,7 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/osprey
 style="text-align: left;"><a href="https://github.com/insightsengineering/osprey/actions/runs/8799593583/job/24148952471">✅
 (success)</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">goshawk</td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/goshawk/actions/runs/8800086648/job/24150520287">✅
@@ -368,7 +379,7 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/goshaw
 style="text-align: left;"><a href="https://github.com/insightsengineering/goshawk/actions/runs/8800086648/job/24150520969">✅
 (success)</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">teal.goshawk</td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/8769918614/job/24065915790">✅
@@ -383,7 +394,7 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.g
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/8769918614/job/24065915746">✅
 (success)</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">teal.osprey</td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/8769923331/job/24065925541">✅
