@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 rmarkdown::render("README.Rmd", output_file = "README.md", output_format = "md_document")
 ```
 
+Last updated on `r Sys.time()` [![Update Workflow Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 ```{r functions, echo=FALSE}
 make_curl_req <- function(
