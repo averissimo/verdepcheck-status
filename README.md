@@ -1,4 +1,4 @@
-Last updated on 2024-04-23 12:56:57.867434 [![Update Workflow
+Last updated on 2024-04-23 13:16:52.549307 [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 <table>
