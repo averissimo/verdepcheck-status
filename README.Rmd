@@ -100,7 +100,8 @@ build_pkg_table <- function(pkg_name) {
         status == "success" ~ "✅",
         status == "failure" ~ "❌",
         status == "cancelled" ~ "🚫",
-        .default = "❓",
+        is.na(status) ~ "❓",
+        .default = "",
       ),
       status = dplyr::if_else(is.na(status), "unkown", status)
     )
