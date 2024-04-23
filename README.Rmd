@@ -55,7 +55,7 @@ build_pkg_table <- function(pkg_name) {
     if (!is.null(res)) break
   }
   
-  if (is.null(res)) {
+  if (is.null(res) || length(res$workflow_runs) == 0L) {
     return(tibble::tibble(
       package = pkg_name,
       name = c("min_cohort", "min_isolated", "max", "release"),
@@ -73,6 +73,7 @@ build_pkg_table <- function(pkg_name) {
     httr2::req_perform() |> 
     httr2::resp_body_json()
   
+  if (base::interactive()) print(sprintf("Retrieving %s...", pkg_name))
   
   jobs <- make_curl_req(pkg_name, "actions", "runs", res$workflow_runs[[1]]$id, "jobs") |> 
     httr2::req_url_query(per_page = 5) |> 
