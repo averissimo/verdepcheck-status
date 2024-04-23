@@ -1,4 +1,4 @@
-Last updated on 2024-04-23 15:52:04.583468 [![Update Workflow
+Last updated on 2024-04-23 16:05:35.65371 [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 <table>
@@ -6,8 +6,8 @@ Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.
 <col style="width: 4%" />
 <col style="width: 23%" />
 <col style="width: 23%" />
-<col style="width: 23%" />
-<col style="width: 23%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -148,11 +148,11 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.m
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382072">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382865">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382865">🚫
+(cancelled)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382535">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382535">🚫
+(cancelled)</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.modules.clinical</td>
