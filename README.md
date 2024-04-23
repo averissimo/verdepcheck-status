@@ -1,5 +1,3 @@
-[![Update Workflow Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg?branch=main)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
-
 <table>
 <colgroup>
 <col style="width: 4%" />
@@ -141,17 +139,13 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.w
 <tr class="odd">
 <td style="text-align: left;">teal.modules.general</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24065900347">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382303">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24065900306">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382072">✅
 (success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24065900399">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24065900257">❌
-(failure)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.modules.clinical</td>
@@ -309,13 +303,17 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/random
 </tr>
 <tr class="even">
 <td style="text-align: left;">scda</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/8769915177/job/24065908464">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/8784382790/job/24102497082">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/8769915177/job/24065908320">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/8784382790/job/24102496312">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/8784382790/job/24102497489">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/8784382790/job/24102496734">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
@@ -331,13 +329,17 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/scda.2
 </tr>
 <tr class="even">
 <td style="text-align: left;">osprey</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/osprey/actions/runs/8769923942/job/24065926574">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/osprey/actions/runs/8799593583/job/24148953076">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/osprey/actions/runs/8769923942/job/24065926514">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/osprey/actions/runs/8799593583/job/24148952820">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/osprey/actions/runs/8799593583/job/24148953284">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/osprey/actions/runs/8799593583/job/24148952471">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
