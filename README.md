@@ -1,4 +1,5 @@
-<relative-time tense="past" datetime="2024-04-23T14:58:53.000Z" title="Mar 23, 2024, 13:58 PM GMT+1">Mar 27, 2024</relative-time>
+Last updated on 2024-04-23 12:04:27.997255 [![Update Workflow
+Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 <table>
 <colgroup>
