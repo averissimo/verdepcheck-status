@@ -74,7 +74,7 @@ build_pkg_table <- function(pkg_name) {
     httr2::resp_body_json()
   
   if (base::interactive()) print(sprintf("Retrieving %s...", pkg_name))
-  browser()
+  
   jobs <- make_curl_req(pkg_name, "actions", "runs", res$workflow_runs[[1]]$id, "jobs") |> 
     httr2::req_url_query(per_page = 5) |> 
     httr2::req_perform() |> 
