@@ -1,6 +1,19 @@
+<<<<<<< HEAD
 Last updated on 2024-04-24 04:23:17.57459 [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
+=======
+Last updated on 2024-04-24 10:48:13 CEST [![Update Workflow
+Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
+
+*notes:*
+
+-   This table is automatically generated from the latest GitHub Actions
+    status.
+-   ❓ indicates that the job might still be running, click on it to
+    find out more.
+
+>>>>>>> 976282e (Manual update)
 <table>
 <colgroup>
 <col style="width: 4%" />
@@ -142,17 +155,25 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.w
 <tr class="odd">
 <td style="text-align: left;">teal.modules.general</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382303">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8813257833/job/24190621597">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382072">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8813257833/job/24190621343">✅
 (success)</a></td>
 <td
+<<<<<<< HEAD
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382865">🚫
 (cancelled)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8769911456/job/24148382535">🚫
 (cancelled)</a></td>
+=======
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8813257833/job/24190621957">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/8813257833/job/24190621069">✅
+(success)</a></td>
+>>>>>>> 976282e (Manual update)
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.modules.clinical</td>
@@ -296,11 +317,35 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin
 </tr>
 <tr class="even">
 <td style="text-align: left;">citril.metadata</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916715">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916780">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916837">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916912">✅
+(success)</a></td>
 </tr>
+<tr class="odd">
+<td style="text-align: left;">citril</td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904628">❌
+(failure)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904419">❌
+(failure)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904565">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904500">✅
+(success)</a></td>
+</tr>
+<<<<<<< HEAD
 <tr class="odd">
 <td style="text-align: left;">citril</td>
 <td style="text-align: left;"></td>
@@ -308,6 +353,8 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>
+=======
+>>>>>>> 976282e (Manual update)
 <tr class="even">
 <td style="text-align: left;">random.cdisc.data</td>
 <td
@@ -411,10 +458,3 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.o
 </tr>
 </tbody>
 </table>
-
-*notes:*
-
--   This table is automatically generated from the latest GitHub Actions
-    status.
--   ❓ indicates that the job might still be running, click on it to
-    find out more.

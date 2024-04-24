@@ -12,7 +12,12 @@ knitr::opts_chunk$set(echo = TRUE)
 rmarkdown::render("README.Rmd", output_file = "README.md", output_format = "md_document")
 ```
 
-Last updated on `r Sys.time()` [![Update Workflow Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
+Last updated on `r strftime(Sys.time(), format = "%Y-%m-%d %H:%M:%S %Z")` [![Update Workflow Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
+
+_notes:_
+
+- This table is automatically generated from the latest GitHub Actions status.
+- ❓ indicates that the  job might still be running, click on it to find out more.
 
 ```{r functions, echo=FALSE}
 make_curl_req <- function(
@@ -74,7 +79,7 @@ build_pkg_table <- function(pkg_name) {
     httr2::req_perform() |> 
     httr2::resp_body_json()
   
-  if (base::interactive()) print(sprintf("Retrieving %s...", pkg_name))
+  if (rlang::is_interactive()) print(sprintf("Retrieving %s...", pkg_name))
   
   jobs <- make_curl_req(pkg_name, "actions", "runs", res$workflow_runs[[1]]$id, "jobs") |> 
     httr2::req_url_query(per_page = 5) |> 
@@ -143,9 +148,3 @@ job_details |>
   dplyr::select(package, min_isolated, min_cohort, release, max) |> 
   knitr::kable()
 ```
-
-
-_notes:_
-
-- This table is automatically generated from the latest GitHub Actions status.
-- ❓ indicates that the  job might still be running, click on it to find out more.
