@@ -1,5 +1,4 @@
-
-Last updated on 2024-04-24 10:48:13 CEST [![Update Workflow
+Last updated on 2024-04-25 04:29:28 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -14,8 +13,8 @@ Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.
 <col style="width: 4%" />
 <col style="width: 23%" />
 <col style="width: 23%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
+<col style="width: 23%" />
+<col style="width: 23%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -304,35 +303,11 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin
 </tr>
 <tr class="even">
 <td style="text-align: left;">citril.metadata</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916715">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916780">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916837">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/8769919156/job/24065916912">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
-<td style="text-align: left;">citril</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904628">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904419">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904565">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/8769913472/job/24065904500">✅
-(success)</a></td>
-</tr>
-<<<<<<< HEAD
 <tr class="odd">
 <td style="text-align: left;">citril</td>
 <td style="text-align: left;"></td>
@@ -340,8 +315,6 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/citril
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>
-=======
->>>>>>> 976282e (Manual update)
 <tr class="even">
 <td style="text-align: left;">random.cdisc.data</td>
 <td
