@@ -1,4 +1,4 @@
-Last updated on 2024-04-25 14:06:29 UTC [![Update Workflow
+Last updated on 2024-04-26 04:23:32 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -238,10 +238,18 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/tern.g
 </tr>
 <tr class="odd">
 <td style="text-align: left;">tern.mmrm</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.mmrm/actions/runs/8834120719/job/24255059870">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.mmrm/actions/runs/8834120719/job/24255058920">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.mmrm/actions/runs/8834120719/job/24255060317">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.mmrm/actions/runs/8834120719/job/24255059366">❌
+(failure)</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">tern.rbmi</td>
