@@ -1,4 +1,4 @@
-Last updated on 2024-06-11 04:26:43 UTC [![Update Workflow
+Last updated on 2024-06-12 04:25:15 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -355,13 +355,17 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/scda/a
 </tr>
 <tr class="even">
 <td style="text-align: left;">scda.2022</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/scda.2022/actions/runs/9433758183/job/25985050011">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda.2022/actions/runs/9466279037/job/26077599775">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/scda.2022/actions/runs/9433758183/job/25985049959">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda.2022/actions/runs/9466279037/job/26077599009">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda.2022/actions/runs/9466279037/job/26077600553">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda.2022/actions/runs/9466279037/job/26077599391">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
