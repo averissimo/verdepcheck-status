@@ -1,4 +1,4 @@
-Last updated on 2024-07-29 04:25:55 UTC [![Update Workflow
+Last updated on 2024-07-30 04:26:13 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -403,16 +403,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/goshaw
 <tr class="odd">
 <td style="text-align: left;">teal.goshawk</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/10128723522/job/28007932775">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/10149900025/job/28065807717">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/10128723522/job/28007932724">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/10149900025/job/28065807391">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/10128723522/job/28007932835">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/10149900025/job/28065807995">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/10128723522/job/28007932634">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/10149900025/job/28065807021">✅
 (success)</a></td>
 </tr>
 <tr class="even">
