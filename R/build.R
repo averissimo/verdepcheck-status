@@ -1,20 +1,16 @@
 #' Make internal request to GitHub API
 #'
-#' @param ...
-#' @param query
-#' @param body
-#' @param endpoint
-#' @param owner
+#' @param ... path in API
+#' @param endpoint endpint in API
+#' @param owner organization on owner
 #'
-#' @return
+#' @return a httr2 query
 #' @export
 #'
 #' @examples
 #' make_curl_req("repos", "insightsengineering", "teal", "actions", "workflows", "scheduled.yaml", "runs")
 make_curl_req <- function(
     ...,
-    query = NULL,
-    body = NULL,
     endpoint = "repos",
     owner = "insightsengineering") {
 
@@ -46,7 +42,7 @@ make_curl_req <- function(
 #' @param workflows job workflows to query
 #' @param keep_regex regex to keep on jobs
 #'
-#' @return
+#' @return a tibble with package, name, status, url and icon
 #' @export
 #'
 #' @examples
