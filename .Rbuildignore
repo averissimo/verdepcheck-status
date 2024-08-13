@@ -1,0 +1,4 @@
+^renv$
+^renv\.lock$
+^report\.Rproj$
+^\.Rproj\.user$

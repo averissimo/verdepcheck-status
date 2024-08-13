@@ -12,107 +12,17 @@ knitr::opts_chunk$set(echo = TRUE)
 rmarkdown::render("README.Rmd", output_file = "README.md", output_format = "md_document")
 ```
 
+```{r}
+library(verdepcheck.status)
+```
+
+
 Last updated on `r strftime(Sys.time(), format = "%Y-%m-%d %H:%M:%S %Z")` [![Update Workflow Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 _notes:_
 
 - This table is automatically generated from the latest GitHub Actions status.
 - ❓ indicates that the  job might still be running, click on it to find out more.
-
-```{r functions, echo=FALSE}
-make_curl_req <- function(
-    ..., 
-    query = NULL, 
-    body = NULL, 
-    endpoint = "repos", 
-    owner = "insightsengineering") {
-  
-  dots <- rlang::list2(...)
-  
-  url_path <- do.call(file.path, dots)
-  
-  url <- if (!is.null(endpoint) && !is.null(owner)) {
-    sprintf("https://api.github.com/%s/%s", endpoint, owner)
-  } else if (!is.null(endpoint)) {
-    sprintf("https://api.github.com/%s", endpoint)
-  }
-  
-  httr2::request(file.path(url, url_path)) |> 
-    httr2::req_headers(
-      "Accept" = "application/vnd.github+json",
-      "Authorization" = sprintf("Bearer %s", Sys.getenv("GITHUB_PAT")),
-      "X-GitHub-Api-Version" = "2022-11-28"
-    )
-}
-
-build_pkg_table <- function(pkg_name) {
-  
-  for (workflow_name in c("scheduled.yaml", "scheduled.yml")) {
-    res <- tryCatch({
-      make_curl_req(pkg_name, "actions", "workflows", workflow_name, "runs") |> 
-        httr2::req_url_query(
-          branch = "main"
-        ) |> 
-        httr2::req_perform() |> 
-        httr2::resp_body_json()
-    }, error = function(e) {
-      return(NULL)
-    })
-    if (!is.null(res)) break
-  }
-  
-  if (is.null(res) || length(res$workflow_runs) == 0L) {
-    return(tibble::tibble(
-      package = pkg_name,
-      name = c("min_cohort", "min_isolated", "max", "release"),
-      status = NA_character_,
-      url = NA_character_,
-      icon = NA_character_
-      )
-    )
-  }
-  
-  res <- make_curl_req(pkg_name, "actions", "workflows", workflow_name, "runs") |> 
-    httr2::req_url_query(
-      branch = "main"
-    ) |> 
-    httr2::req_perform() |> 
-    httr2::resp_body_json()
-  
-  if (rlang::is_interactive()) print(sprintf("Retrieving %s...", pkg_name))
-  
-  jobs <- make_curl_req(pkg_name, "actions", "runs", res$workflow_runs[[1]]$id, "jobs") |> 
-    httr2::req_url_query(per_page = 5) |> 
-    httr2::req_perform() |> 
-    httr2::resp_body_json()
-  
-  flag_regex <- "Dependency Test - (.*) 🔢 .*"
-  
-  processed <- jobs$jobs |> 
-    purrr::keep(~ grepl(flag_regex, .x$name)) |> 
-    purrr::map(
-      ~ list(
-        package = pkg_name,
-        name = gsub(flag_regex, "\\1", .x$name), 
-        status = .x$conclusion, 
-        url = .x$html_url
-      )
-    )
-  
-  processed |> 
-    dplyr::bind_rows() |>
-    dplyr::mutate(
-      icon = dplyr::case_when(
-        status == "success" ~ "✅",
-        status == "failure" ~ "❌",
-        status == "cancelled" ~ "🚫",
-        is.na(status) ~ "❓",
-        .default = "",
-      ),
-      status = dplyr::if_else(is.na(status), "unkown", status)
-    )
-}
-```
 
 ```{r build, echo=FALSE}
 job_details <- c(
