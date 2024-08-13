@@ -1,4 +1,4 @@
-Last updated on 2024-08-12 14:45:31 UTC [![Update Workflow
+Last updated on 2024-08-13 04:26:08 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -96,14 +96,14 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.r
 <tr class="even">
 <td style="text-align: left;">teal.logger</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.logger/actions/runs/10336787653/job/28612907154">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.logger/actions/runs/10336787653/job/28659908031">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.logger/actions/runs/10336787653/job/28612907083">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.logger/actions/runs/10336787653/job/28659909021">✅
 (success)</a></td>
 <td style="text-align: left;"></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.logger/actions/runs/10336787653/job/28612907011">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.logger/actions/runs/10336787653/job/28659908539">❌
 (failure)</a></td>
 </tr>
 <tr class="odd">
