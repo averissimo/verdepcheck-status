@@ -8,10 +8,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r, eval=FALSE, include=FALSE}
-rmarkdown::render("README.Rmd", output_file = "README.md", output_format = "md_document")
+# Ensures debugging is not included in the final document
+withr::with_envvar(
+  new = list(DEBUGME = ""),
+  code = rmarkdown::render("README.Rmd", output_file = "README.md", output_format = "md_document")
+)
 ```
 
-```{r}
+```{r, include=FALSE}
 library(verdepcheck.status)
 ```
 
