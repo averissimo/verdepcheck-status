@@ -34,6 +34,7 @@ jobs:
           GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
           rmarkdown::render("README.Rmd", output_file = "README.md", output_format = "md_document")
+          rmarkdown::render("RHub.Rmd", output_file = "RHub.md", output_format = "md_document")
 
       - name: Set credentials for github
         run: |
