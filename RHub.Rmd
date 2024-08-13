@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r, eval=FALSE, include=FALSE}
-rmarkdown::render("README.Rmd", output_file = "README.md", output_format = "md_document")
+rmarkdown::render("RHub.Rmd", output_file = "RHub.md", output_format = "md_document")
 ```
 
 ```{r, include=FALSE}
@@ -36,12 +36,18 @@ job_details <- c(
   #
   "osprey", "goshawk", "teal.goshawk", "teal.osprey"
 ) |> 
-  lapply(build_pkg_table) |> 
+  lapply(
+    build_pkg_table,
+    workflows = c("windows (r-devel-windows-x86_64)","macos-arm64 (r-release-macos-arm64)","ubuntu-clang","macos (r-release-macos-x86_64)","ubuntu-gcc12","windows (r-release-windows-x86_64)","macos-arm64 (r-oldrel-macos-arm64)","ubuntu-next","macos (r-oldrel-macos-x86_64)","ubuntu-release","windows (r-oldrel-windows-x86_64)","linux","nosuggests"),
+    keep_regex = "R-hub 🌐 / (.*) \\(.*\\)"
+  ) |> 
   dplyr::bind_rows()
 ```
 
+
+
 ```{r print, echo=FALSE}
-job_details |> 
+output <- job_details |> 
   dplyr::rowwise() |> 
   dplyr::mutate(
     badge = sprintf("%s (%s)", icon, status),
@@ -53,7 +59,12 @@ job_details |>
   ) |> 
   dplyr::select(package, name, badge_l) |> 
   dplyr::filter(name != "min") |> 
-  tidyr::pivot_wider(names_from = name, values_from = badge_l, values_fill = list("")) |> 
-  dplyr::select(package, min_isolated, min_cohort, release, max) |> 
+  tidyr::pivot_wider(names_from = name, values_from = badge_l, values_fill = list(""))
+
+# Reorder colnames
+output |> 
+  dplyr::select(sort(colnames(output))) |> 
+  dplyr::relocate(package) |> 
   knitr::kable()
+
 ```

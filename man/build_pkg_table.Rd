@@ -16,7 +16,7 @@ build_pkg_table(
 
 \item{yaml_files}{yaml files to query}
 
-\item{workflows}{job workflows to query}
+\item{workflows}{job workflows to query (placeholder on failure)}
 
 \item{keep_regex}{regex to keep on jobs}
 }
@@ -28,4 +28,9 @@ Build package table information on jobs
 }
 \examples{
 build_pkg_table("teal")
+build_pkg_table(
+  "teal",
+  workflows = c("windows (r-devel-windows-x86_64)","macos-arm64 (r-release-macos-arm64)","ubuntu-clang","macos (r-release-macos-x86_64)","ubuntu-gcc12","windows (r-release-windows-x86_64)","macos-arm64 (r-oldrel-macos-arm64)","ubuntu-next","macos (r-oldrel-macos-x86_64)","ubuntu-release","windows (r-oldrel-windows-x86_64)","linux","nosuggests"),
+  keep_regex = "R-hub 🌐 / (.*) \\\\(.*\\\\)"
+)
 }
