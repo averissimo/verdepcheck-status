@@ -1,4 +1,4 @@
-Last updated on 2024-08-13 12:32:44 CEST [![Update Workflow
+Last updated on 2024-08-13 12:11:57 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -313,33 +313,17 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin
 </tr>
 <tr class="even">
 <td style="text-align: left;">citril.metadata</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/10336787072/job/28612906193">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/10336787072/job/28612906016">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/10336787072/job/28612906282">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril.metadata/actions/runs/10336787072/job/28612906131">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">citril</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/10336790861/job/28612913085">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/10336790861/job/28612913041">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/10336790861/job/28612913121">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/citril/actions/runs/10336790861/job/28612913005">❌
-(failure)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">random.cdisc.data</td>
