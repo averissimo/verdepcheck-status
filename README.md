@@ -1,4 +1,4 @@
-Last updated on 2024-08-13 16:06:20 UTC [![Update Workflow
+Last updated on 2024-08-14 04:29:32 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -164,16 +164,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.m
 <tr class="even">
 <td style="text-align: left;">teal.modules.clinical</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/10336798573/job/28612929356">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/10336798573/job/28718085788">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/10336798573/job/28612929276">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/10336798573/job/28718086287">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/10336798573/job/28612929414">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/10336798573/job/28718087040">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/10336798573/job/28612929196">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/10336798573/job/28718085458">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
@@ -284,16 +284,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/tern/a
 <tr class="even">
 <td style="text-align: left;">chevron</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10336797775/job/28717597270">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10336797775/job/28729862310">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10336797775/job/28717596156">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10336797775/job/28729862058">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10336797775/job/28717596924">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10336797775/job/28729862691">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10336797775/job/28717596481">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10336797775/job/28729862490">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
@@ -343,16 +343,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/random
 <tr class="odd">
 <td style="text-align: left;">scda</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/10336796394/job/28717653894">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/10336796394/job/28729875979">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/10336796394/job/28717652161">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/10336796394/job/28729876419">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/10336796394/job/28717654423">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/10336796394/job/28729876754">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/10336796394/job/28717653491">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/scda/actions/runs/10336796394/job/28729876184">✅
 (success)</a></td>
 </tr>
 <tr class="even">
