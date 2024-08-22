@@ -1,4 +1,4 @@
-Last updated on 2024-08-21 04:31:06 UTC [![Update Workflow
+Last updated on 2024-08-22 04:30:30 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -224,17 +224,17 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/rlisti
 <tr class="even">
 <td style="text-align: left;">tern.gee</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/10437596186/job/28903952763">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/10499120651/job/29085306016">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/10437596186/job/28903952713">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/10499120651/job/29085305851">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/10437596186/job/28903952818">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/10499120651/job/29085306162">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/10437596186/job/28903952673">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/10499120651/job/29085305717">✅
+(success)</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">tern.mmrm</td>
