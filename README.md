@@ -1,4 +1,4 @@
-Last updated on 2024-09-03 04:31:04 UTC [![Update Workflow
+Last updated on 2024-09-04 04:31:00 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -209,16 +209,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/rtable
 <tr class="odd">
 <td style="text-align: left;">rlistings</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522531002">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606445602">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522530859">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606444930">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522531134">✅
-(success)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606445861">❌
+(failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522531242">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606445296">✅
 (success)</a></td>
 </tr>
 <tr class="even">

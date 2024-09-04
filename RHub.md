@@ -1,4 +1,4 @@
-Last updated on 2024-09-03 04:31:51 UTC [![Update Workflow
+Last updated on 2024-09-04 04:31:45 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -551,43 +551,43 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/rtable
 <tr class="odd">
 <td style="text-align: left;">rlistings</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522535039">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606460251">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522534821">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606458968">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522534333">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606455456">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522534557">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606458040">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522534205">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606454650">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522534898">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522533948">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606458563">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522534272">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606454206">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522534503">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606455014">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522534714">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606456461">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522534136">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606456924">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522534941">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606453029">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10650767310/job/29522534448">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606459871">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10681874790/job/29606455781">✅
 (success)</a></td>
 </tr>
 <tr class="even">
