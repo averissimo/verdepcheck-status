@@ -1,4 +1,4 @@
-Last updated on 2024-09-09 04:32:22 UTC [![Update Workflow
+Last updated on 2024-09-10 04:32:12 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -761,43 +761,43 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/tern/a
 <tr class="even">
 <td style="text-align: left;">chevron</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109841">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878574363">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109607">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878572852">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109229">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878570340">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109510">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878572147">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109105">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878569600">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109788">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878573230">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109054">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878568440">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109173">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878569268">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109415">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878570766">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109559">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878571776">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830108830">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878568898">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109741">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878573634">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830109347">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878571380">✅
 (success)</a></td>
 </tr>
 <tr class="odd">

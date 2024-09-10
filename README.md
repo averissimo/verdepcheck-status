@@ -1,4 +1,4 @@
-Last updated on 2024-09-09 04:31:35 UTC [![Update Workflow
+Last updated on 2024-09-10 04:31:26 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -284,16 +284,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/tern/a
 <tr class="even">
 <td style="text-align: left;">chevron</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830106885">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878565671">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830106632">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878565204">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830107041">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878566783">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29830106763">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/10756817430/job/29878564737">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
