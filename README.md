@@ -1,4 +1,4 @@
-Last updated on 2024-09-13 04:30:45 UTC [![Update Workflow
+Last updated on 2024-09-14 04:31:17 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -194,31 +194,31 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/format
 <tr class="even">
 <td style="text-align: left;">rtables</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/10756806359/job/29830083763">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/10848973361/job/30107198068">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/10756806359/job/29830083704">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/10848973361/job/30107198644">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/10756806359/job/29830083819">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/10848973361/job/30107198960">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/10756806359/job/29830083655">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/10848973361/job/30107198360">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">rlistings</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10756809974/job/29830091702">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10848977164/job/30107209634">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10756809974/job/29830091587">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10848977164/job/30107210032">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10756809974/job/29830091769">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10848977164/job/30107210336">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10756809974/job/29830091650">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/10848977164/job/30107209318">✅
 (success)</a></td>
 </tr>
 <tr class="even">
