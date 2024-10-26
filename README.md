@@ -1,4 +1,4 @@
-Last updated on 2024-10-25 04:33:58 UTC [![Update Workflow
+Last updated on 2024-10-26 04:32:46 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -284,32 +284,24 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/tern/a
 <tr class="even">
 <td style="text-align: left;">chevron</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/11423188255/job/31782083182">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/11423188255/job/32051436951">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/11423188255/job/31782083355">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/11423188255/job/32051436609">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/11423188255/job/31782083437">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/11423188255/job/32051437238">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/11423188255/job/31782083255">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/11423188255/job/32051436379">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">dunlin</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin/actions/runs/11423188127/job/31782083197">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin/actions/runs/11423188127/job/31782083123">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin/actions/runs/11423188127/job/31782083041">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/dunlin/actions/runs/11423188127/job/31782083302">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">citril.metadata</td>
