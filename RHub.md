@@ -1,4 +1,4 @@
-Last updated on 2024-11-03 04:31:49 UTC [![Update Workflow
+Last updated on 2024-11-04 04:33:02 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -380,8 +380,8 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.m
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/11648237651/job/32434436923">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/11648237651/job/32434437451">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/11648237651/job/32434437451">✅
+(success)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/11648237651/job/32434436547">✅
 (success)</a></td>
@@ -1030,14 +1030,14 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.g
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/11648244348/job/32434450069">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/11648244348/job/32434450999">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/11648244348/job/32434450999">❌
+(failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/11648244348/job/32434449986">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/11648244348/job/32434449986">❌
+(failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/11648244348/job/32434450148">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/11648244348/job/32434450148">❌
+(failure)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/11648244348/job/32434450508">❌
 (failure)</a></td>
