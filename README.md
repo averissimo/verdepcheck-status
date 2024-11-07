@@ -1,4 +1,4 @@
-Last updated on 2024-11-06 04:32:42 UTC [![Update Workflow
+Last updated on 2024-11-07 04:31:16 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -261,16 +261,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/tern.m
 <tr class="odd">
 <td style="text-align: left;">tern</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/11648241446/job/32434441347">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/11648241446/job/32578018419">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/11648241446/job/32434441243">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/11648241446/job/32578018600">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/11648241446/job/32434441495">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/11648241446/job/32578018816">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/11648241446/job/32434441151">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/11648241446/job/32578018166">✅
 (success)</a></td>
 </tr>
 <tr class="even">
