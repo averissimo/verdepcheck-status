@@ -1,4 +1,4 @@
-Last updated on 2024-11-21 04:34:00 UTC [![Update Workflow
+Last updated on 2024-11-22 04:33:46 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -28,18 +28,10 @@ Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">teal</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/11875707450/job/33093223670">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/11875707450/job/33093223584">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/11875707450/job/33093223753">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/11875707450/job/33093223502">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.code</td>
