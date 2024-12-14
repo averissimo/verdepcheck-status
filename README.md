@@ -1,4 +1,4 @@
-Last updated on 2024-12-13 04:35:30 UTC [![Update Workflow
+Last updated on 2024-12-14 04:33:46 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -179,16 +179,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.m
 <tr class="odd">
 <td style="text-align: left;">formatters</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/12218610008/job/34084306278">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/12218610008/job/34379222052">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/12218610008/job/34084306164">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/12218610008/job/34379221126">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/12218610008/job/34084306351">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/12218610008/job/34379222410">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/12218610008/job/34084306214">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/12218610008/job/34379221506">✅
 (success)</a></td>
 </tr>
 <tr class="even">
