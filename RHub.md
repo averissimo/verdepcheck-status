@@ -1,4 +1,4 @@
-Last updated on 2024-12-19 04:34:54 UTC [![Update Workflow
+Last updated on 2024-12-20 04:32:54 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -367,42 +367,18 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.w
 <tr class="odd">
 <td style="text-align: left;">teal.modules.general</td>
 <td style="text-align: left;"></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427206477">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427205950">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427206292">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427205823">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427206404">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427205483">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427205761">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427206029">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427206229">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427205718">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427206606">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12335593063/job/34427206149">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.modules.clinical</td>
