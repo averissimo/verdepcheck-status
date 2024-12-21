@@ -1,4 +1,4 @@
-Last updated on 2024-12-20 04:32:05 UTC [![Update Workflow
+Last updated on 2024-12-21 04:31:15 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -8,7 +8,7 @@ Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.
 -   ❓ indicates that the job might still be running, click on it to
     find out more.
 
-<table>
+<table style="width:100%;">
 <colgroup>
 <col style="width: 4%" />
 <col style="width: 23%" />
@@ -149,17 +149,17 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.w
 <tr class="odd">
 <td style="text-align: left;">teal.modules.general</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12410747880/job/34647016025">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12434881839/job/34719501355">🚫
+(cancelled)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12410747880/job/34647016312">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12434881839/job/34719501134">🚫
+(cancelled)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12410747880/job/34647016629">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12434881839/job/34719501603">🚫
+(cancelled)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12410747880/job/34647015720">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.general/actions/runs/12434881839/job/34719500828">🚫
+(cancelled)</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.modules.clinical</td>
