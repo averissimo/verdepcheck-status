@@ -1,4 +1,4 @@
-Last updated on 2025-01-10 04:32:15 UTC [![Update Workflow
+Last updated on 2025-01-11 04:31:55 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -59,16 +59,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.c
 <tr class="odd">
 <td style="text-align: left;">teal.data</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/12674670268/job/35323895077">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/12714861412/job/35445901945">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/12714861412/job/35445901657">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/12714861412/job/35445902216">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/12674670268/job/35323894582">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/12674670268/job/35323895848">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/12674670268/job/35323895460">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.data/actions/runs/12714861412/job/35445901331">✅
 (success)</a></td>
 </tr>
 <tr class="even">
@@ -119,32 +119,32 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.l
 <tr class="odd">
 <td style="text-align: left;">teal.transform</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/12616301941/job/35157383187">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/12715063459/job/35446516795">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/12616301941/job/35157383270">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/12715063459/job/35446516564">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/12616301941/job/35157383365">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/12715063459/job/35446517001">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/12616301941/job/35157383092">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/12715063459/job/35446516243">✅
 (success)</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.widgets</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.widgets/actions/runs/12616314820/job/35157408328">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.widgets/actions/runs/12714812974/job/35445749805">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.widgets/actions/runs/12616314820/job/35157408395">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.widgets/actions/runs/12714812974/job/35445749523">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.widgets/actions/runs/12616314820/job/35157408535">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.widgets/actions/runs/12714812974/job/35445750448">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.widgets/actions/runs/12616314820/job/35157408457">❌
-(failure)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.widgets/actions/runs/12714812974/job/35445750134">✅
+(success)</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">teal.modules.general</td>
