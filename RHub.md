@@ -1,4 +1,4 @@
-Last updated on 2025-01-12 04:32:28 UTC [![Update Workflow
+Last updated on 2025-01-13 04:35:06 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -420,14 +420,14 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.m
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/12730209542/job/35482898421">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/12730209542/job/35482899273">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/12730209542/job/35482899273">❌
+(failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/12730209542/job/35482898072">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/12730209542/job/35482898072">❌
+(failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/12730209542/job/35482898192">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/12730209542/job/35482898192">❌
+(failure)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/12730209542/job/35482898521">✅
 (success)</a></td>
@@ -528,8 +528,8 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/rtable
 <td style="text-align: left;">rlistings</td>
 <td style="text-align: left;"></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/12730202159/job/35482884825">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/12730202159/job/35482884825">✅
+(success)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/12730202159/job/35482884189">✅
 (success)</a></td>
