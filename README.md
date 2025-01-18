@@ -1,4 +1,4 @@
-Last updated on 2025-01-17 04:33:08 UTC [![Update Workflow
+Last updated on 2025-01-18 04:30:20 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -194,16 +194,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/format
 <tr class="even">
 <td style="text-align: left;">rtables</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/12730199203/job/35598376363">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/12730199203/job/35780846949">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/12730199203/job/35598375810">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/12730199203/job/35780847467">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/12730199203/job/35598376808">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/12730199203/job/35780848482">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/12730199203/job/35598375406">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/12730199203/job/35780847857">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
@@ -269,16 +269,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/tern.r
 <tr class="odd">
 <td style="text-align: left;">tern</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/12730203108/job/35482880781">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/12730203108/job/35780915765">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/12730203108/job/35482880607">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/12730203108/job/35780916274">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/12730203108/job/35482880832">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/12730203108/job/35780917241">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/12730203108/job/35482880715">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/tern/actions/runs/12730203108/job/35780916803">✅
 (success)</a></td>
 </tr>
 <tr class="even">
