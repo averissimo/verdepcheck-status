@@ -1,4 +1,4 @@
-Last updated on 2025-01-31 04:31:33 UTC [![Update Workflow
+Last updated on 2025-02-01 04:30:43 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -200,18 +200,10 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/rtable
 </tr>
 <tr class="odd">
 <td style="text-align: left;">rlistings</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/12971170878/job/36177275193">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/12971170878/job/36177275056">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/12971170878/job/36177275266">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rlistings/actions/runs/12971170878/job/36177275138">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">tern.gee</td>
@@ -394,18 +386,10 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/goshaw
 </tr>
 <tr class="odd">
 <td style="text-align: left;">teal.goshawk</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/12971175519/job/36177285517">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/12971175519/job/36177285586">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/12971175519/job/36177285654">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/12971175519/job/36177285421">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.osprey</td>
