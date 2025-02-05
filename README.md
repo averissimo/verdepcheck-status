@@ -1,4 +1,4 @@
-Last updated on 2025-02-04 04:31:14 UTC [![Update Workflow
+Last updated on 2025-02-05 04:32:31 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -118,18 +118,10 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.l
 </tr>
 <tr class="odd">
 <td style="text-align: left;">teal.transform</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536921454">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536921514">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536921576">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536921633">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.widgets</td>

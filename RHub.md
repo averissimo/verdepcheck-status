@@ -1,4 +1,4 @@
-Last updated on 2025-02-04 04:32:03 UTC [![Update Workflow
+Last updated on 2025-02-05 04:33:19 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -288,40 +288,40 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.l
 <td style="text-align: left;">teal.transform</td>
 <td style="text-align: left;"></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536924580">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686868163">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536923994">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686866797">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536924375">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686867761">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536923818">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686866295">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536924984">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686869230">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536923730">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686865126">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536923912">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686866073">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536924259">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686867017">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536924452">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686867499">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536923418">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686865818">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536924854">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686868913">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13095306362/job/36536924179">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.transform/actions/runs/13146885626/job/36686867229">✅
 (success)</a></td>
 </tr>
 <tr class="even">
