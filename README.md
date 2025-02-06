@@ -1,4 +1,4 @@
-Last updated on 2025-02-05 04:32:31 UTC [![Update Workflow
+Last updated on 2025-02-06 04:33:21 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -185,18 +185,10 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/format
 </tr>
 <tr class="even">
 <td style="text-align: left;">rtables</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13095298451/job/36536904266">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13095298451/job/36536904220">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13095298451/job/36536904326">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13095298451/job/36536904147">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">rlistings</td>
