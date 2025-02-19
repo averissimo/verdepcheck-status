@@ -1,4 +1,4 @@
-Last updated on 2025-02-18 04:31:42 UTC [![Update Workflow
+Last updated on 2025-02-19 04:32:58 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -178,33 +178,17 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.m
 </tr>
 <tr class="odd">
 <td style="text-align: left;">formatters</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/13351460326/job/37324735171">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/13351460326/job/37324734830">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/13351460326/job/37324735984">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/formatters/actions/runs/13351460326/job/37324735572">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">rtables</td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13351448529/job/37371413844">❌
-(failure)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13351448529/job/37371413644">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13351448529/job/37371414072">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13351448529/job/37371413461">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">rlistings</td>
