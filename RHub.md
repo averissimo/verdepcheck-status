@@ -1,4 +1,4 @@
-Last updated on 2025-02-19 04:33:45 UTC [![Update Workflow
+Last updated on 2025-02-20 04:32:38 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -519,42 +519,18 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/rlisti
 <tr class="even">
 <td style="text-align: left;">tern.gee</td>
 <td style="text-align: left;"></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288543361">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288542966">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288543244">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288542828">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288543594">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288542905">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288543024">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288543310">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288543471">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288542640">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288543418">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/tern.gee/actions/runs/13351461240/job/37288543083">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">tern.mmrm</td>
