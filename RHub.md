@@ -1,4 +1,4 @@
-Last updated on 2025-02-20 04:32:38 UTC [![Update Workflow
+Last updated on 2025-02-22 04:33:45 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -655,42 +655,18 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/tern/a
 <tr class="even">
 <td style="text-align: left;">chevron</td>
 <td style="text-align: left;"></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288544266">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288543988">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288544153">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288543888">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288544534">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288543808">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288543940">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288544210">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288544328">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288543598">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288544393">✅
-(success)</a></td>
-<td
-style="text-align: left;"><a href="https://github.com/insightsengineering/chevron/actions/runs/13351461899/job/37288544110">✅
-(success)</a></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">dunlin</td>
