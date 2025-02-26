@@ -1,4 +1,4 @@
-Last updated on 2025-02-25 04:32:42 UTC [![Update Workflow
+Last updated on 2025-02-26 04:33:27 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -163,10 +163,18 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.m
 </tr>
 <tr class="even">
 <td style="text-align: left;">teal.modules.clinical</td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/13479430354/job/37662791524">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/13479430354/job/37662791246">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/13479430354/job/37662791433">✅
+(success)</a></td>
+<td
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.modules.clinical/actions/runs/13479430354/job/37662791322">✅
+(success)</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">formatters</td>
