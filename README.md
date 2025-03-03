@@ -1,4 +1,4 @@
-Last updated on 2025-03-02 04:31:18 UTC [![Update Workflow
+Last updated on 2025-03-03 04:34:37 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -194,16 +194,16 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/format
 <tr class="even">
 <td style="text-align: left;">rtables</td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13611772166/job/38049891182">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13611772166/job/38072266044">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13611772166/job/38049891070">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13611772166/job/38072265827">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13611772166/job/38049891338">❌
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13611772166/job/38072266647">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13611772166/job/38049891258">✅
+style="text-align: left;"><a href="https://github.com/insightsengineering/rtables/actions/runs/13611772166/job/38072266287">✅
 (success)</a></td>
 </tr>
 <tr class="odd">
