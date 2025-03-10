@@ -1,4 +1,4 @@
-Last updated on 2025-03-09 04:28:17 UTC [![Update Workflow
+Last updated on 2025-03-10 04:28:45 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -63,11 +63,11 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal/a
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/13744540510/job/38437872558">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/13744540510/job/38437871679">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/13744540510/job/38437871679">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/13744540510/job/38437871831">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/13744540510/job/38437871831">✅
+(success)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal/actions/runs/13744540510/job/38437872176">✅
 (success)</a></td>
@@ -1021,11 +1021,11 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.g
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/13744551013/job/38437895192">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/13744551013/job/38437894214">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/13744551013/job/38437894214">❌
+(failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/13744551013/job/38437894486">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/13744551013/job/38437894486">❌
+(failure)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.goshawk/actions/runs/13744551013/job/38437894751">❌
 (failure)</a></td>
@@ -1061,11 +1061,11 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.o
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/13744557656/job/38437908730">❌
 (failure)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/13744557656/job/38437908112">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/13744557656/job/38437908112">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/13744557656/job/38437908218">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/13744557656/job/38437908218">✅
+(success)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/13744557656/job/38437908418">✅
 (success)</a></td>
