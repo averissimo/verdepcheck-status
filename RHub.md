@@ -1,4 +1,4 @@
-Last updated on 2025-03-23 04:34:13 UTC [![Update Workflow
+Last updated on 2025-03-24 04:36:26 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -1058,14 +1058,14 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.o
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14015258434/job/39240182791">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14015258434/job/39240183434">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14015258434/job/39240183434">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14015258434/job/39240182457">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14015258434/job/39240182457">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14015258434/job/39240182723">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14015258434/job/39240182723">✅
+(success)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14015258434/job/39240183028">✅
 (success)</a></td>
