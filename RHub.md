@@ -1,4 +1,4 @@
-Last updated on 2025-04-06 04:37:02 UTC [![Update Workflow
+Last updated on 2025-04-07 04:35:15 UTC [![Update Workflow
 Info](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml/badge.svg)](https://github.com/averissimo/verdepcheck-status/actions/workflows/update.yaml)
 
 *notes:*
@@ -1046,8 +1046,8 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.g
 <td style="text-align: left;">teal.osprey</td>
 <td style="text-align: left;"></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14288738500/job/40047213316">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14288738500/job/40047213316">❌
+(failure)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14288738500/job/40047212800">✅
 (success)</a></td>
@@ -1058,14 +1058,14 @@ style="text-align: left;"><a href="https://github.com/insightsengineering/teal.o
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14288738500/job/40047212608">✅
 (success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14288738500/job/40047213247">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14288738500/job/40047213247">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14288738500/job/40047211990">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14288738500/job/40047211990">✅
+(success)</a></td>
 <td
-style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14288738500/job/40047212328">❓
-(unkown)</a></td>
+style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14288738500/job/40047212328">✅
+(success)</a></td>
 <td
 style="text-align: left;"><a href="https://github.com/insightsengineering/teal.osprey/actions/runs/14288738500/job/40047212698">✅
 (success)</a></td>
